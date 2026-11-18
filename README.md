@@ -44,3 +44,24 @@
 ## 数据与访问
 
 此示例在浏览器本地处理上传图片和生成文件，不提供账号系统、云端存储或访问控制。刷新页面会丢失未保存的编辑；GitHub 仓库私有不代表已部署的网站私有。不要把 API 密钥、内部客户数据、账号令牌或 `.env` 文件提交到仓库。涉及敏感资料时，先按公司安全要求确认使用、部署和访问方式。
+
+## 安装 Codex Skill
+
+仓库中附带 [`creative-tool-builder`](skills/creative-tool-builder/SKILL.md) Skill，包含工作流程、验收指引和可运行的起始工程。同事可以在 Codex 中发送：
+
+```text
+请使用 $skill-installer 从以下地址安装创意小工具制作 skill：
+https://github.com/luhoyoo/creative-tool-template/tree/main/skills/creative-tool-builder
+```
+
+安装后在下一轮对话中使用：
+
+```text
+使用 $creative-tool-builder 制作一个【工具名称】。
+用途：【填写使用人群和目标】
+设计稿：【粘贴 Figma 画板链接】
+编辑内容：【填写】
+预览与导出：【填写尺寸、格式、语言和文件命名】
+```
+
+Skill 会在空项目中提供可运行的起点；在已有项目中则先读取并沿用现有技术栈。示例海报的品牌、素材和文案不是新工具的默认要求。

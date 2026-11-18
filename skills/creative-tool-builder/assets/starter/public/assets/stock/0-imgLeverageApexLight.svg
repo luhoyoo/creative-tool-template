@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="leverage_apex_light">
+<path id="Union" d="M55.3084 37.4814L31.1404 40.502L39.7518 53.75H20.2518L28.6609 40.8115L5.3084 43.7314L4.68828 38.7705L54.6883 32.5195L55.3084 37.4814ZM19.5262 20C20.5979 20 21.5328 20.7291 21.7937 21.7686L23.8934 30.1318C24.2619 31.5998 23.152 33.0234 21.6385 33.0234H7.98027C6.46695 33.0231 5.35684 31.5997 5.72539 30.1318L7.82598 21.7686C8.08694 20.7292 9.02099 20.0001 10.0926 20H19.5262ZM41.2498 7.5C47.463 7.5 52.4998 12.5368 52.4998 18.75C52.4998 24.9632 47.463 30 41.2498 30C35.0366 30 29.9998 24.9632 29.9998 18.75C29.9998 12.5368 35.0366 7.5 41.2498 7.5Z" fill="url(#paint0_linear_0_82)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_82" x1="29.9984" y1="7.5" x2="29.9984" y2="53.75" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0D0E0F"/>
+<stop offset="1" stop-color="#0D0E0F" stop-opacity="0.75"/>
+</linearGradient>
+</defs>
+</svg>

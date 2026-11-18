@@ -1,0 +1,4 @@
+interface:
+  display_name: "创意小工具制作"
+  short_description: "根据设计稿制作可预览、可导出的创意小工具"
+  default_prompt: "使用 $creative-tool-builder 根据我的需求和设计稿制作一个可预览、可导出的创意工具。"
