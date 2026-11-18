@@ -1,10 +1,10 @@
 # 创意小工具模板
 
-这是面向公司内部的 **React + Vite 工具起点**，包含一个可运行的股票合约海报示例。每个新工具应从此私有模板创建自己的私有仓库，替换示例数据、素材和海报版式，再独立发布。
+这是面向公司内部的 **React + Vite 工具起点**，包含一个可运行的股票合约海报示例。每个新工具可以从此公开模板创建自己的仓库；涉及公司内容时选择私有仓库，替换示例数据、素材和海报版式，再独立发布。
 
 ## 快速开始
 
-1. 在 GitHub 模板页选择 **Use this template → Create a new repository**，新仓库选择 **Private**。仅已获模板仓库访问权限的同事可使用。
+1. 在 GitHub 模板页选择 **Use this template → Create a new repository**，根据内容选择仓库可见性；公司内部项目建议选择 **Private**。
 2. 将新仓库下载到电脑，用 Codex 打开项目目录。
 3. 复制 [需求填写表](docs/需求填写表.md)，填写需求和 Figma 链接，再连同 [Codex 提示词](docs/Codex制作提示词.md) 发给 Codex。
 4. 安装 Node.js 后运行：
