@@ -1,0 +1,21 @@
+// 示例多语言文案。每个数组依次为顶部标签和三条权益文案。
+export const translations = {
+'en-US':['New on Stock Futures','Deep Liquidity','20x Leverage','Trade 24/7'],
+'zh-TW':['美股合約上新','深度流動性','20 倍槓桿','24/7 交易'],
+'zh-CN':['美股合约上新','深度流动性','20 倍杠杆','24/7 交易'],
+'zh-MY':['美股合约上新','深度流动性','20 倍杠杆','24/7 交易'],
+'ja-JP':['株式先物に新登場','深い流動性','20倍のレバレッジ','24時間365日取引'],
+'ru-RU':['Новые фьючерсы на акции','Глубокая ликвидность','Плечо 20x','Торговать 24/7'],
+'vi-VN':['Futures cổ phiếu mới','Thanh khoản sâu','Đòn bẩy 20x','Giao dịch 24/7'],
+'uk-UA':["Нові ф'ючерси на акції",'Ліквідність','20x плече','Торгувати 24/7'],
+'id-ID':['Baru di Futures Saham','Likuiditas Tinggi','Leverage 20x','Dagang 24/7'],
+'pt-PT':['Estreia em Futuros de Ações','Alta liquidez','Alavancagem de 20x','Negociar 24/7'],
+'es-ES':['Nuevo en futuros de acciones','Gran liquidez','Apalancamiento de 20x','Opera 24/7'],
+'it-IT':['Nuovi su Futures azionari','Deep Liquidity','20x Leverage','Trade 24/7'],
+'fil-PH':['Bago sa Stock Futures','Malalim na Liquidity','20x Leverage','Mag-trade 24/7'],
+'de-DE':['Neu bei Aktien-Futures','Deep Liquidity','20x Leverage','Trade 24/7'],
+'fr-FR':['Nouveautés Futures sur actions','Liquidité profonde','Levier 20x','Tradez 24h/24, 7j/7'],
+ 'th-TH':['ใหม่ในฟิวเจอร์สหุ้น','สภาพคล่องสูง','เลเวอเรจ 20 เท่า.','เทรด 24/7'],
+'az-AZ':['Səhm Fyuçersində yeniliklər','Likvidlik','20x leverec','24/7 Ticarət edin'],
+'fa-IR':['جدید در معاملات فیوچرز سهام','نقدشوندگی عمیق','اهرم 20 برابر','معامله 24/7'],
+'ar-AE':['جديد العقود الآجلة للأسهم','سيولة عالية','رافعة x20','تداول 24/7']};

@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="premarket_light">
+<path id="Union" d="M22.4998 12.4557L30.0086 12.4566H37.5018V7.53672H42.5018V12.4566H47.4109C50.172 12.457 52.4099 14.6956 52.41 17.4566V47.3473C52.4099 50.1086 50.1713 52.3472 47.41 52.3473H12.6062C9.84486 52.3473 7.6063 50.1086 7.60625 47.3473V17.4557C7.6065 14.6944 9.84495 12.4556 12.6062 12.4557H17.4998V7.53672H22.4998V12.4557ZM23.2879 30.5025L20.534 34.4361H26.2371V34.441H29.8631L24.2215 42.4996H30.325L36.7127 33.3746L39.4666 29.441H33.1189V29.4361H30.1375L35.7889 21.3629H29.6854L23.2879 30.5025Z" fill="url(#paint0_linear_0_119)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_119" x1="30.0081" y1="7.53672" x2="30.0081" y2="52.3473" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0D0E0F"/>
+<stop offset="1" stop-color="#0D0E0F" stop-opacity="0.75"/>
+</linearGradient>
+</defs>
+</svg>
